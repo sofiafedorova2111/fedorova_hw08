@@ -2,15 +2,13 @@ Project CS234W
 
 Name: Sofia Fedorova
 
-Date: 03/04/2026
+Date: 03/10/2026
 
-Description: Book Review App which allows to view, add, and delete books stored.
+Description: Added Custom Hooks and Context Provider to my Book Review App project. It is done to simplify the work and make components easier to reuse.
 Project
-- View Books
-- Add new book using form
-- Delete a book using dropdown
-- Navigation between pages
-- Components
+- Custom Hook : fetches books from backend and provides addBooka and deleteBook functions.
+- Context: makes book data available to any component.
+
 
 BACKEND
 - http://localhost:3000
